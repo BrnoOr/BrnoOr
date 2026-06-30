@@ -5,7 +5,7 @@ Statistical Engineer • M.Sc. Data Science • Pricing Analytics
 
 Soy Ingeniero Estadístico de la Universidad de Santiago de Chile (USACH) y actualmente curso el Magíster en Ciencia de Datos en la Universidad de Chile.
 
-Actualmente trabajo como **Pricing Optimization Analyst** en Empresa de Seguros en Chile, desarrollando modelos estadísticos y de machine learning para apoyar la toma de decisiones mediante análisis de datos, optimización y automatización.
+Actualmente trabajo como **Pricing Optimization Analyst** en Empresa del rubro asegurador en Chile, desarrollando modelos estadísticos y de machine learning para apoyar la toma de decisiones mediante análisis de datos, optimización y automatización.
 
 ---
 
