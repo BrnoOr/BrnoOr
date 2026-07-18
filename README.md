@@ -82,12 +82,11 @@ I'm interested in applying statistics, machine learning and optimization techniq
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Brno0&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=BrnoOr&show_icons=true&hide_border=true"
     height="170"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brno0&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrnoOr&layout=compact&hide_border=true"
     height="170"
   />
 </p>
